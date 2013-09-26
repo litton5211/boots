@@ -1,0 +1,8 @@
+.main{
+	margin-top: 60px;
+}
+.left-nav-fixed{
+	/* position: fixed;*/
+	width: 230px;
+	padding: 0 0 10px 0;
+}

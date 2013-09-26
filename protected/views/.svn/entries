@@ -1,0 +1,61 @@
+10
+
+dir
+203
+http://42.120.5.248:8080/svn/meizhuang/protected/views
+http://42.120.5.248:8080/svn
+
+
+
+2013-07-03T16:03:14.727288Z
+203
+litao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8f6f662b-975c-4574-93d9-e47dac3d11e4
+
+area
+dir
+
+clientInfo
+dir
+
+connectLog
+dir
+
+goods
+dir
+
+gtTest
+dir
+
+infosys
+dir
+
+layouts
+dir
+
+messages
+dir
+
+page
+dir
+
+site
+dir
+
+user
+dir
+

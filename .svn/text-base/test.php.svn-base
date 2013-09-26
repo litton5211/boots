@@ -1,0 +1,21 @@
+
+
+
+<html>
+<body>
+
+<form action="http://42.120.5.248/index.php/api/user/share" method="post"
+enctype="multipart/form-data">
+<label for="file">Filename:</label>
+<input type="file" name="pic[1]" id="file" /> 
+<input type="file" name="pic[2]" id="file" />
+<input type="file" name="pic[3]" id="file" />  
+title<input type="text" name="title"  /> 
+content<input type="text" name="content"  />
+token<input type="text" name="token"  /> 
+<br />
+<input type="submit" name="submit" value="Submit" />
+</form>
+
+</body>
+</html>
