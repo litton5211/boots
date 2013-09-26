@@ -1,37 +1,0 @@
-10
-
-dir
-203
-http://42.120.5.248:8080/svn/meizhuang/protected/modules/admin/assets
-http://42.120.5.248:8080/svn
-
-
-
-2013-06-19T11:05:37.997503Z
-130
-litao
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-8f6f662b-975c-4574-93d9-e47dac3d11e4
-
-css
-dir
-
-images
-dir
-
-js
-dir
-

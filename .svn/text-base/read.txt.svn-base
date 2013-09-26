@@ -1,8 +1,0 @@
-﻿用户名:admin
-
-密码:admin
-
-数据库表初始化sql：/protected/config/juwang.sql，需自行创建数据库juwang
-
-数据库配置信息在：/protected/config/main.php的db属性
-
